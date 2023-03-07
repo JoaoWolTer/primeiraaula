@@ -7,9 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>
-TELA PRINCIPAL
-</h1>
+
+<h1>TELA PRINCIPAL</h1>
 
 </body>
 </html>
